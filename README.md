@@ -1,4 +1,4 @@
-# 🍕 Pizza Palace - Online Pizza Ordering System
+no# 🍕 Pizza Palace - Online Pizza Ordering System
 
 A full-stack web application for ordering pizzas online with custom pizza builder, real-time order tracking, and inventory management.
 
@@ -134,7 +134,7 @@ pizza-ordering-app/
 
 Omkar Avhale - omkaravhale82370@gmail.com
 
-Project Link: [https://github.com/OmkarAvhale10000/pizza-ordering-app](https://github.com/OmkarAvhale10000/pizza-ordering-app)
+Project Link: [https://github.com/OmkarAvhale10000/OIBSIP](https://github.com/OmkarAvhale10000/pizza-ordering-app)
 
 ---
 
