@@ -134,7 +134,7 @@ pizza-ordering-app/
 
 Omkar Avhale - omkaravhale82370@gmail.com
 
-Project Link: [https://github.com/yourusername/pizza-ordering-app](https://github.com/OmkarAvhale10000/pizza-ordering-app)
+Project Link: [https://github.com/OmkarAvhale10000/pizza-ordering-app](https://github.com/OmkarAvhale10000/pizza-ordering-app)
 
 ---
 
