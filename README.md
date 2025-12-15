@@ -134,7 +134,7 @@ pizza-ordering-app/
 
 Omkar Avhale - omkaravhale82370@gmail.com
 
-Project Link: [https://github.com/OmkarAvhale10000/OIBSIP](https://github.com/OmkarAvhale10000/pizza-ordering-app)
+Project Link: [https://github.com/OmkarAvhale10000/OIBSIP](https://github.com/OmkarAvhale10000/OIBSIP)
 
 ---
 
